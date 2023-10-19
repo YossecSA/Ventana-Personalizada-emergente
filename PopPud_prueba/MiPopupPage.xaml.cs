@@ -16,7 +16,14 @@ namespace PopPud_prueba
     {
         public MiPopupPage()
         {
+            //animacion 
+            var scaleAnimation = new ScaleAnimation
+            {
+                PositionIn = MoveAnimationOptions.Right,
+                PositionOut = MoveAnimationOptions.Left
+            };
 
+            this.Animation = scaleAnimation;
             InitializeComponent();
 
         }
