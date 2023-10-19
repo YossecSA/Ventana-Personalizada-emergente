@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kaxjV8LrdRBvPHn7AADoVsin5z1Lrw5R0+6wpGgELYF2TKoJXHq9kK0bighSS9IOQ/FmI5prHYg3BQGOey2XVw==",
+  "success": true,
+  "projectFilePath": "C:\\Programas_Yossec\\movil\\PopPud_prueba\\PopPud_prueba.iOS\\PopPud_prueba.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josefer\\.nuget\\packages\\rg.plugins.popup\\2.1.0\\rg.plugins.popup.2.1.0.nupkg.sha512",
+    "C:\\Users\\Josefer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Josefer\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Josefer\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

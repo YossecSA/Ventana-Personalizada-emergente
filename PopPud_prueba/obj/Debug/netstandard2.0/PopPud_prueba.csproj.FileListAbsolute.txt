@@ -1,0 +1,16 @@
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\bin\Debug\netstandard2.0\PopPud_prueba.deps.json
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\bin\Debug\netstandard2.0\PopPud_prueba.dll
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\bin\Debug\netstandard2.0\PopPud_prueba.pdb
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\PopPud_prueba.csproj.AssemblyReference.cache
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\PopPud_prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\PopPud_prueba.AssemblyInfoInputs.cache
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\PopPud_prueba.AssemblyInfo.cs
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\PopPud_prueba.csproj.CoreCompileInputs.cache
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\PopPud_prueba.dll
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\refint\PopPud_prueba.dll
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\PopPud_prueba.pdb
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\ref\PopPud_prueba.dll
+C:\Programas_Yossec\movil\PopPud_prueba\PopPud_prueba\obj\Debug\netstandard2.0\MiPopupPage.xaml.g.cs
