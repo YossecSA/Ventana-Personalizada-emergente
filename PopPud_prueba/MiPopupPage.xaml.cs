@@ -25,6 +25,7 @@ namespace PopPud_prueba
 
             this.Animation = scaleAnimation;
             InitializeComponent();
+            BackgroundColor = Color.AliceBlue; //cuando se abre el popup el fondo se pone del color asignado
 
         }
         private async void Button_Clicked(object sender, EventArgs e)
